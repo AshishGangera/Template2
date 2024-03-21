@@ -1,0 +1,159 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.top-left {
+    position: absolute;
+    top: 0;
+    background-color: #ff3700af;
+    height: 137.3%;
+    width: 50%;
+    size: 100% 900px;
+}
+
+.logo {
+    position: absolute;
+    right: 0;
+    margin-top: 6%;
+    margin-right: 6%;
+    font-size: 25px;
+    text-align: right;
+    color: white;
+}
+
+.left-text {
+    background-color: aqua;
+    color: aqua;
+    width: 20px;
+    height: fit-content;
+    margin-top: 15%;
+    margin-left: 85px;
+    font-size: 60px;
+}
+
+.pro {
+    color: white;
+    font-size: 80px;
+    line-height: 80px;
+    margin-left: 85px;
+    margin-top: 8%;
+}
+
+.hey {
+    margin-top: 20%;
+    height: 15%;
+    width: 32%;
+    text-align: center;
+    border: 5px solid #ffffff;
+    color: white;
+    margin-left: 85px;
+    font-size: 35px;
+}
+
+.top-right {
+    position: absolute;
+    top: 0;
+    background-color: #ffdd00aa;
+    height: 73%;
+    width: 50%;
+    margin-left: 50%;
+}
+
+.A {
+    position: absolute;
+    left: 0px;
+    top: 123.4%;
+    background-color: rgba(0, 255, 255, 0.750);
+    height: 40%;
+    width: 100%;
+    font-size: 21px;
+    margin-top: 6.7%;
+}
+
+.A1 {
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 35px;
+}
+
+.cor {
+    background-color: rgba(0, 0, 0, 0.750);
+    height: 20%;
+    letter-spacing: 10px;
+    font-size: 60px;
+    width: 60%;
+    text-align: center;
+    color: white;
+    margin-left: 50px;
+    margin-top: 17px;
+}
+
+.a2 {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.tem {
+    background-color: rgba(0, 0, 0, 0.750);
+    height: 20%;
+    letter-spacing: 10px;
+    font-size: 60px;
+    width: 35%;
+    text-align: center;
+    color: white;
+    margin-left: 50px;
+}
+
+.p {
+    font-size: 20px;
+    width: 50%;
+    padding-left: 30px;
+}
+
+.hea {
+    margin-top: 3%;
+    margin-left: 85px;
+}
+
+.text2 {
+    text-align: justify;
+    margin-left: 85px;
+    display: flex;
+    width: 90%;
+}
+.text3 {
+    display: flex;
+    text-align: justify;
+    margin-left: 85px;
+    width: 60%;
+}
+
+.flow {
+    margin-top: 10px;
+    margin-left: 85px;
+}
+
+.bottom-right {
+    position: absolute;
+    right: 0;
+    background-color: #FFDF00;
+    height: 33%;
+    width: 25%;
+    margin-top: 35%;
+    height: fit-content;
+}
+
+.text {
+    text-align: right;
+    font-size: 25px;
+    margin-top: 12%;
+    padding-right: 20%;
+    line-height: 30px;
+    height: fit-content;
+}
+
+  
